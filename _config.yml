@@ -1,11 +1,11 @@
 # Site settings
-author: Christopher Metzger
-title: 
+author: Chris
+title: Chris's Blog
 header-img: img/home-bg.png
 email: chrismetzgr@gmail.com
-copyright_name: Christopher Metzger
+copyright_name: Chris
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Blog Chris Wrote
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  critsmet
